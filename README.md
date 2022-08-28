@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-coffee app flutter ui used some flutter widgets
+coffee app ui used some flutter widgets
